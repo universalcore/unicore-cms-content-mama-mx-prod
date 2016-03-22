@@ -4,14 +4,14 @@
   "language": "spa_MX", 
   "title": "Tu cuerpo despu\u00e9s de la p\u00e9rdida del embarazo", 
   "primary_category": "8bc4a31038864b1594918f7266dc4b7e", 
-  "created_at": "2016-03-21T11:37:43.462655+00:00", 
+  "created_at": "2016-03-21T11:37:43+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-03-21T11:37:43.462887+00:00", 
+  "modified_at": "2016-03-22T10:35:35.113020+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 10, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "tu-cuerpo-despues-de-la-perdida-del-embarazo", 
   "uuid": "aa9cad027bbb497d9a2ee990ea2eda48"
